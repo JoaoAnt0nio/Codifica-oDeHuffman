@@ -20,15 +20,6 @@ O software foi projetado para:
 * **Sistema Operacional:** Compatível com Linux (Ubuntu 24.04) e outros sistemas (Windows/macOS).
 * **Dependências:** Apenas bibliotecas padrão do Python (`heapq`, `os`, `collections`). Não é necessária instalação de pacotes externos.
 
-##  Como Executar
-
-Siga os passos abaixo para clonar e executar o projeto via linha de comando:
-
-1. **Clone o repositório:**
-   ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
-   cd <NOME_DA_PASTA>
-
 ##  Autor
 
 * **Nome:** João Antônio Melo Zacarias(https://github.com/JoaoAnt0nio)
